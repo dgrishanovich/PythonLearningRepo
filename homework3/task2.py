@@ -1,3 +1,4 @@
+#2
 def print_user_info(name, surname, year, city, email, phone):
     lst = [name, surname, year, city, email, phone]
     s = ';'.join(lst)

@@ -1,3 +1,4 @@
+#4
 def default_power(x, y):
     return x**y
 

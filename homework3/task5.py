@@ -1,3 +1,4 @@
+#5
 def list_contains_spec_symbol(lst, spec_symbol="Q"):
     return spec_symbol in (token.upper() for token in lst)
 

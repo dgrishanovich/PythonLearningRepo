@@ -1,3 +1,4 @@
+#6
 def int_func(little_word):
     return little_word.capitalize()
 
