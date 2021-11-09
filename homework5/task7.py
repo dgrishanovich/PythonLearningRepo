@@ -1,3 +1,4 @@
+# Task 7
 from statistics import mean
 import json
 profit_list = []

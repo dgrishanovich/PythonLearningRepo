@@ -1,3 +1,4 @@
+# Task 2
 count_lines = 0
 with open("files/file_for_task2.txt", "r") as file_for_read:
     for line in file_for_read:

@@ -1,3 +1,4 @@
+# Task 3
 from statistics import mean
 
 dict_surname_salary = {}
