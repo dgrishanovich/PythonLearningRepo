@@ -2,7 +2,7 @@ import time
 
 
 class TrafficLight:
-    color_rules = {"Red": 3, "Yellow": 2, "Green": 7}
+    color_rules = {"Red": 7, "Yellow": 2, "Green": 3}
     next_color_map = {"Red": "Yellow", "Yellow": "Green", "Green": "Red"}
 
     def __init__(self, color):
@@ -23,4 +23,4 @@ class TrafficLight:
 t = TrafficLight("Red")
 for i in range(10):
     t.running()
-t.running("Red")
+t.running("Yellow")
